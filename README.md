@@ -10,4 +10,6 @@ cd average-pegs
 ```
 
 Run script
-``` python average-pegs.py ```
+```bash
+python average-pegs.py
+```
